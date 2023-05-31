@@ -6,7 +6,7 @@ subject,Subjects,true
 location,Location
 latitude,Latitude
 longitude,Longitude
-countryoforgin,Country of Origin,true
+countryoforigin,Country of Origin,true
 source,Source
 format,Format,
 rights,Rights,
