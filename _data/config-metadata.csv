@@ -1,15 +1,16 @@
 field,display_name,browse_link,external_link
 title,Title,
-creator,Creator,
-date,Date Created,
+datecreated,Date Created,
 description,Description,
 subject,Subjects,true
 location,Location
 latitude,Latitude
 longitude,Longitude
+countryoforigin,Country of Origin,true
 source,Source
-identifier,Source Identifier,,
-type,Type,
 format,Format,
 rights,Rights,
-rightsstatement,Rights Statement,,true
+rightsnotes,Rights Notes,
+creativecommonsmark,Creative Commons
+citation,Citation
+archivedpage,Archived Page
