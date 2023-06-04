@@ -1,75 +1,21 @@
 # collectionbuilder-gh
 
-A project to generate a free and simple digital collection site using [GitHub Pages](https://pages.github.com/) given:
+**Humanities Data Management (LIB 410), spring 2023, University of Oregon**
+**Instructor:** Kate Thormhill 
+**GE:** Michele Pflug
 
-- a CSV of collection metadata
-- a folder of JPEG images or PDF documents
+**Course Description:** "This course provides students with theoretical and practical experience in collecting, processing, archiving, and publishing humanities data (images, video, sound, text, maps, etc.) gathered from galleries, libraries, archives, and museums (GLAMs). With the goal of building thematic digital collections as researchers, students will learn digital methodologies focusing on the technical, legal, ethical, and social aspects of working with humanities research data throughout its curation lifecycle. This includes hands-on experience finding, assessing, organizing, and reformatting data; creating and remediating descriptive metadata; evaluating and determining copyright and licensing; writing a data management plan using the standards set by the National Endowment for the Humanities, and sharing thematic research digital collections using GitHub and the open- source platform CollectionBuilder" 
 
-Gather your digital objects together and create your metadata using the [CollectionBuilder-GH Metadata Template](https://docs.google.com/spreadsheets/d/1Uv9ytll0hysMOH1j-VL1lZx6PWvc1zf3L35sK_4IuzI/copy). 
-Then click the green "use this template" button above to create your repository, add your metadata and configure the repository to fit your collection and settings.
+**Project Contributers:** Claire Matucan, Regan Robinson, Daveena Williams, and Jackson Scharf 
 
-See [Getting Started Docs](https://collectionbuilder.github.io/cb-docs/) for detailed information. 
+**Repository Link:**
+<a href="https://lib410-spring2023.github.io/group-3/" target="_blank">Repository Link</a>
 
-View the [demo site](https://collectionbuilder.github.io/collectionbuilder-gh/).
+**Asian Heratige in Oregon Throughout History Description:**
+A digital thematic collection created by Regan Robinson, Daveena Williams, Jackson Scharf, and Claire Matucan. Our digital collection focuses on the immigration of Asian populations to Oregon from 1850 to 1980, with a focus on primary sources to help narrate the important and complex story of Asian immigration during a century of turmoil for these populations in America. Included in our collection are photographs, letters, artifacts, art, legal documents, newspaper articles, and more to formulate a thematic and chronological history of these vast and diverse populations within Oregon. We consciously chose to focus on a more broad population as we feel it’s important to acknowledge the histories of all Asian communities as important historical events rooted in racism and xenophobia had massive effects on Asian populations in particular. We seek to shed light on these events and their impacts on the work and lives of the populations in which we are researching. The 1882 Chinese Exclusion Act was an extremely important event impacting Asian communities in Oregon and internationally. The act initiated an absolute 10-year ban on immigrants coming from China, despite this, the act has had massive impacts on all Asian immigrants due to racism and prejudice that targeted all Asian populations. With this project, we hope to shed light on these underrepresented populations and their contributions to culture and the overall development of Oregon as many of the Asian immigrants that arrived here worked in mines, factories, and assisted in the growth of cities across the state. 
 
-**Note:** 
-Since `collectionbuilder-gh` uses [GitHub Pages](https://pages.github.com/), it is only suitable for small collections, with lower resolution images. GitHub repositories are limited to 1GB.
+**Data Managment Plan:** 
+Throughout the course of creating our thematic digital collection we accumulated mostly images of artifacts, documents, and photographs all in the form of jpegs and jpgs. In total we collected 27 objects varying in size from 33 KB to 6.95 MB. Our metadata was transformed into CSV files so it could be easily uploaded into Github. We intend to share our data for educational and research purposes under the correct copyright laws. We managed our data by creating multiple sites for them to be shared between group members. We had copies of our object jpegs/jpgs in addition to our metadata in our group Sharepoint, our individual Dropboxes, Exel, GoogleDrive, and in our own personal folders. We also standardized and organized our data by following the Metadata Application Profile standards, and standardized file naming conventions so we could easily find and access our data. We created archived pages with the wayback machine, of all the original sites in which we found our objects. The archived pages ensure information is preserved for future use. We then published the archived pages onto our Collection Builder site. 
 
-## Demo CollectionBuilder with our Workshop Tutorial
-
-If you'd like to demo CollectionBuilder, we've made [a step-through tutorial](https://collectionbuilder.github.io/workshop/gh/) using the following spreadsheet and zipped directory. (The tutorial uses items from our [Psychiana Digital Collection](https://www.lib.uidaho.edu/digital/psychiana/), which is worth a visit!)
-
-Metadata is drawn from the following Google Sheet: 
-
-- [Psychiana Digital Collection Metadata](https://docs.google.com/spreadsheets/d/1x48Te3duPAxh53foEihQVKTfCKUjaCCbH7TrMMd_yU4/copy)
-
-Objects are collected in this zip file: 
-
-- [Psychiana Digital Collection Media Files](https://www.lib.uidaho.edu/collectionbuilder/demo-objects.zip) (Includes image files, pdfs, and mp3s)
-
-These files are stored in this [CollectionBuilder-gh Google Drive Folder](https://drive.google.com/drive/folders/1dTO8-3lusaKBdYyauyg_ziVqwLA4Fons?usp=sharing), along with some other metadata sheets and zipped object directories that can be used for other workshops and demonstrations.
-
-## More on CollectionBuilder
-
-`collectionbuilder-gh` is intended as a simple template for hands-on teaching about digital libraries.
-It can be used in a workshop setting to take participants through digitization and metadata creation, to having a live collection site hosted on GitHub.
-
-`collectionbuilder-gh` aims to be well documented and easy to configure by following the example, with the potential to scaffold learning of a multitude of transferable digital and data skills.
-A project in "minimal computing", it provides a depth of learning opportunities, allowing users to take complete ownership over the project and make their work open to the world.
-
-Learn about:
-
-- Git and GitHub basics
-- [Markdown](https://guides.github.com/features/mastering-markdown/), plaintext writing and content creation
-- HTML, CSS, and JS literacy
-- commandline literacy
-- GitHub collaboration and project management
-- [Jekyll](https://jekyllrb.com/) basics
-- working in the Open, open source and open data
-- digital libraries concepts such as "collections as data", minimal computing, data-driven design
-
-> We prefer commonly understood formats (such as CSV spreadsheets over YAML), and convention over configuration (follow the example over learn all the options).
-
-## Features
-
-- [Jekyll](https://jekyllrb.com/) for GitHub Pages 
-- Layout using [Bootstrap 5](https://getbootstrap.com/docs/5.1/getting-started/introduction/)
-- Mapping using [Leaflet.js](http://leafletjs.com/)
-- Tables using [DataTables](https://datatables.net/)
-- Galleries using [spotlight](https://github.com/nextapps-de/spotlight)
-- Simple [lunr](https://lunrjs.com/) search 
-- Rich markup using [Schema.org](http://schema.org) and [Open Graph protocol](http://ogp.me/) standards
-
-## Build a Digital Collection! 
-
-Check out the [CollectionBuilder docs](https://collectionbuilder.github.io/cb-docs/) for how to get started, or visit the [CollectionBuilder home](https://collectionbuilder.github.io/) for more information.
-
-If you are interested in using CollectionBuilder, or are already using it, please drop us a line (**libstatic.uidaho@gmail.com**) since we would love to learn more about it's use in the wild. 
-There are also currently opportunities to [collaborate on CollectionBuilder](https://collectionbuilder.github.io/about.html#the-grant).
-
-## License
-
-CollectionBuilder documentation and general web content is licensed [Creative Commons Attribution-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/). 
-This license does *NOT* include any objects or images used in digital collections, which may have individually applied licenses described by a "rights" field.
-CollectionBuilder code is licensed [MIT](https://github.com/CollectionBuilder/collectionbuilder-gh/blob/main/LICENSE). 
-This license does not include external dependencies included in the `assets/lib` directory, which are covered by their individual licenses.
+**Link to Data Managment Plan Page:**
+<a href="https://lib410-spring2023.github.io/group-3/dmp.html" target="_blank">DMP Page</a>
