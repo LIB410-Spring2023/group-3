@@ -8,6 +8,9 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
+### LIB 410: 
+This collection was completed with knowledge obtained in **Kate Thornhill** and **Michele Pflug’s** Humanities Data Management class (LIB 410) during spring term of 2023. 
+
 # Our Collection:
 *Asian Heritage in Oregon Throughout History* is a digital thematic collection created by **Regan Robinson, Daveena Williams, Jackson Scharf, and Claire Matucan.** Our digital collection focuses on the immigration of Asian populations to Oregon from 1850 to 1980, with a focus on primary sources to help narrate the important and complex story of Asian immigration during a century of turmoil for these populations in America. Included in our collection are photographs, letters, artifacts, art, legal documents, newspaper articles, and more to formulate a thematic and chronological history of these vast and diverse populations within Oregon. We consciously chose to focus on a more broad population as we feel it’s important to acknowledge the histories of all Asian communities as important historical events rooted in racism and xenophobia had massive effects on Asian populations in particular. We seek to shed light on these events and their impacts on the work and lives of the populations in which we are researching. The 1882 Chinese Exclusion Act was an extremely important event impacting Asian communities in Oregon and internationally. The act initiated an absolute 10-year ban on immigrants coming from China, despite this, the act has had massive impacts on all Asian immigrants due to racism and prejudice that targeted all Asian populations. With this project, we hope to shed light on these underrepresented populations and their contributions to culture and the overall development of Oregon as many of the Asian immigrants that arrived here worked in mines, factories, and assisted in the growth of cities across the state. 
 ### Roles & Responsibilities:
@@ -18,9 +21,6 @@ credits: true
 **Regan Robinson** took on the role of Object Preservation Manager for this project. She is responsible for overseeing the organization of the digital files the group is working with and maintaining the readability of the file naming standards. Once CollectionBuilder is introduced, she will also manage the objects that will enter the collection based on their format and the format requirements set by CollectionBuilder. 
 
 **Jackson Scharf** was our Collection Development Manager, and has been responsible for the evaluation of file formats and copyright and licensing. The Collection Development Manager was responsible for the evaluation, and final selection of objects in the collection, as well as a written description of the collection. Jackson has mostly been working to ensure that we are obeying US copyright law, and are appropriately labeling our objects with the proper rights statements.  
-
-### LIB 410: 
-This collection was completed with knowledge obtained in **Kate Thornhill** and **Michele Pflug’s** Humanities Data Management class (LIB 410) during spring term of 2023. 
 
 ### GLAMS: 
 The objects used in this collection were sourced from several GLAMs including:
