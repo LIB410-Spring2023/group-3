@@ -8,8 +8,8 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-# Healers Project: Interview Collection DMP
-Collection description
+# Asian Heritage in Oregon throughout History: Themematic Digital Collection DMP
+Our digital collection focuses on the immigration of Asian populations to Oregon from 1850-1980, with a focus on primary sources to help narrate the important and complex story of Asian immigration during a century of turmoil for these communities in America. We are including photographs, letters, art, artifacts, legal documents, newspaper articles, and more to formulate a thematic and chronological history of these diverse communities within Oregon.
 
 ## Roles & Responsibilities
 The DMP should clearly articulate how sharing of primary data is to be implemented.  It should outline the rights and obligations of all parties with respect to their roles and responsibilities in the management and retention of research data. It should also consider changes to roles and responsibilities that will occur if a project director or co-project director leaves the institution or project. Any costs stemming from the management of data should be explained in the budget notes.
@@ -22,16 +22,7 @@ The Healers interview collection consists of audio clips of interviews, as well 
 - **Jackson Scharf**, *Collection Development Manager,* As Collection Development Manager, Jackson Scharf, at this point in the project, has been responsible for the evaluation of file formats and copyright and licensing. It should be noted that the Collection Development Manager will also later be responsible for the evaluation, and final selection of objects in the collection, as well as a written description of the collection. For now, however, Jackson has mostly been working to ensure that we are obeying US copyright law, and are appropriately labeling our objects with the proper rights statements.  
 
 
-## Expected Data
-**The DMP should describe the types of data, samples, physical collections, software, curriculum materials, or other materials to be produced during the project. It should then describe the expected types of data to be retained.**
 
-Project directors should address matters such as these in the DMP:
-- the types of data that their project might generate and eventually share with others, and under what conditions;
-- how data will be managed and maintained until shared with others;
-- factors that might impinge on their ability to manage data, for example, legal and ethical restrictions on access to non-aggregated data;
-- the lowest level of aggregated data that project directors might share with others in the scholarly or scientific community, given that community's norms on data;
-- the mechanism for sharing data and/or making it accessible to others; and
-- other types of information that should be maintained and shared regarding data, for example, the way it was generated, analytical and procedural information, and the metadata.
 ### Data types
 Throughout the course of creating our thematic digital collection we accumulated mostly images of artifacts, documents, and photographs all in the form of jpegs and jpgs. In total we collected 27 objects varying in size from 33 KB to 6.95 MB. Our metadata was transformed into CSV files so it could be easily uploaded into Github. We intend to share our data for educational and research purposes under the correct copyright laws. 
 
@@ -48,12 +39,15 @@ The Asian Heritage in Oregon Throughout History Digital Archive contains objects
 ## Dissemination:
 The project team thought it necessary to make as much relevant data as possible publicly available. For this reason, we have both the Collection Builder Website, and its back end on Github available to the public. On both, we have the data itself, metadata and metadata application profile available. As a result of using Collection Builder, an open source collection tool, all of the code responsible for building the Asian Heritage in Oregon Throughout History website is available to the public.
 ## Rights:
-	It was important for the members of the team to ensure that we were adhering to all US Copyright law. For this reason, many of our objects fall within the public domain as they were created prior to 1929. For objects that were not a part of the public domain, we made sure that their use in our digital collection was permitted. In the case of an undetermined copyright we made sure to do our due diligence to make sure that we weren’t violating US Copyright law. If we were unsure about the copyright status of an object we made sure to reach out to the collections that the objects were housed in to ensure that their use was permitted.
+It was important for the members of the team to ensure that we were adhering to all US Copyright law. For this reason, many of our objects fall within the public domain as they were created prior to 1929. For objects that were not a part of the public domain, we made sure that their use in our digital collection was permitted. In the case of an undetermined copyright we made sure to do our due diligence to make sure that we weren’t violating US Copyright law. If we were unsure about the copyright status of an object we made sure to reach out to the collections that the objects were housed in to ensure that their use was permitted.
 ## Privacy, Security, Public Access:
 Due to the age and content of most of our objects, there weren’t many concerns of privacy or security. We did however double check to make sure that we were not including any compromising or unwanted information within our objects. To the best of our knowledge, there are no violations of privacy or security within our collection.
 ## Data Storage and Preservation of Access: 
 
 Our objects have four copies, to ensure security in having multiple back ups. Our group stored objects in Cloud based softwares including: Google drive, DropBox, Github and Sharepoint. Regarding Preservation of Access we used a tool called the Wayback time Machine to archive and conserve the links to our objects. Allowing for audiences being able to access how the embedded links looked originally, as we were archiving these objects for thematic digital collection. With data sustainability in mind we also ensured all our objects were converted to jpegs to ensure quality of these images for the long run and avoiding degradation of image quality from use. 
+
+
+## Appendix:
 
 
 
