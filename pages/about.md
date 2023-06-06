@@ -12,7 +12,6 @@ credits: true
 This collection was completed with knowledge obtained in **Kate Thornhill** and **Michele Pflug’s** Humanities Data Management class (LIB 410) during spring term of 2023. 
 
 ## A Special Thank You:
-
 For **Kate Thornhill** and **Michele Pflug**,
 
 We wanted to take a moment to express our deepest gratitude for your incredible support and guidance throughout our journey in creating our first digital collection. Your expertise, enthusiasm, and unwavering dedication to our learning experience have truly made a lasting impact on all of us.
@@ -28,6 +27,7 @@ We are truly fortunate to have had the opportunity to learn from both of you. Yo
 Thank you once again, Kate and Michele, for everything you have done for us. We are deeply grateful and honored to have had the chance to work with such exceptional educators. Your contributions to our growth and development will be cherished and remembered for years to come. **We Also like to extend our appreciation to all other wonderful Librarians who were pinnacle in supporting and creating this course.** 
 
 With heartfelt appreciation,
+
 Claire Matucan, Daveena Williams, Regan Robinson, and Jackson Scharf
 
 
