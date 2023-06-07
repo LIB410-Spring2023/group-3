@@ -48,7 +48,7 @@ Our objects have four copies, to ensure security in having multiple back ups. Ou
 
 
 ## Appendix:
-Here is a link to our [Metadata Application Profile](https://uoregon.sharepoint.com/:w:/r/sites/O365_lib410sp23-hrdm/_layouts/15/Doc.aspx?sourcedoc=%7B8BC95985-4D6D-42DF-AAA3-D760CF5D3AD5%7D&file=group3_map.docx&action=default&mobileredirect=true) which contains relevant information regarding metadata curation and management.
+Here is a link to our [Metadata Application Profile](objects/dmp.pdf) which contains relevant information regarding metadata curation and management.
 
 
 
