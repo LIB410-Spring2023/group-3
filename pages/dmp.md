@@ -49,8 +49,7 @@ Our objects have four copies, to ensure security in having multiple back ups. Ou
 
 ## Appendix:
 Here is a link to our 
-<a href="https://github.com/LIB410-Spring2023/group-3/blob/main/objects/group3_dmp.docx" target="_blank">DMP Page</a>
- which contains relevant information regarding metadata curation and management.
+<a href="https://github.com/LIB410-Spring2023/group-3/blob/main/objects/group3_dmp.docx" target="_blank">DMP Page containing Metadata Application Profile</a> which contains relevant information regarding metadata curation and management.
 
 
 
